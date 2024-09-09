@@ -2,7 +2,7 @@
 - 👀 I’m interested in MERN Stack.
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me iamtausifxofficial@gmail.com
+- 📫 How to reach me iamtauseefofficial@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
