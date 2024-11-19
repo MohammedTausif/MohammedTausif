@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MohammedTausif
 - 👀 I’m interested in MERN Stack.
-- 🌱 I’m currently learning Backend
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me iamtauseefofficial@gmail.com
 - 💻 Currently learning Typescript and Advance backend
 
