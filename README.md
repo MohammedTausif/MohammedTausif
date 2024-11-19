@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me iamtauseefofficial@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💻 Currently learning Typescript and Advance backend
 
 <!---
 MohammedTausif/MohammedTausif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
