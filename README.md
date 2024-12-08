@@ -2,7 +2,7 @@
 - 👀 I’m interested in MERN Stack.
 - 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me iamtauseefofficial@gmail.com
-- 💻 Currently learning Typescript and Advance backend
+- 💻 Currently learning Typescript and Nextjs
 
 <!---
 MohammedTausif/MohammedTausif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
