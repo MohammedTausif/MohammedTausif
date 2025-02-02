@@ -2,7 +2,7 @@
 - 👀 I’m interested in MERN Stack.
 - 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me iamtauseefofficial@gmail.com
-- 💻 Currently learning Typescript and NextJS
+- 💻 Currently learning Typescript and NextJs
 
 
 - 
