@@ -21,13 +21,13 @@
   
 #### 🌐 **Frontend**
 - ⚛️ React.js, Next.js, TypeScript  
-- 🎨 TailwindCSS, Chakra UI, Material UI  
+- 🎨 TailwindCSS, Shadcn UI, Material UI  
 - 🌎 Progressive Web Apps (PWAs)  
 
 #### 💾 **Backend**
 - 🚀 Node.js, Express.js  
-- 📜 TypeScript, RESTful APIs, GraphQL  
-- 🔒 Authentication: JWT, OAuth  
+- 📜 TypeScript, RESTful APIs, GraphQL 
+- 🔒 Authentication: JWT, OAuth, NextAuth 
 
 #### 🛢️ **Database & Storage**
 - 🍃 MongoDB (Mongoose)  
@@ -45,7 +45,7 @@
 - 🧪 Jest, Cypress, Unit Testing  
 
 ---
-
+<!--
 ### 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
@@ -53,13 +53,15 @@
 </p>
 
 ---
+-->
 
 ### 🎯 **Let's Connect!**
-📩 **Email:** your.email@example.com  
-💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-🐦 **Twitter/X:** [@yourusername](https://twitter.com/yourusername)  
-🌍 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
-
+📩 **Email:** iamtauseefofficial@gmail.com 
+💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/tausif-ahmed-01a416253/)  
+🐦 **Twitter/X:** [@yourusername](https://x.com/mohd_Tauseefx) 
+<!--
+🌍 **Portfolio:** [yourwebsite.com](https://github.com/MohammedTausif/)  
+-->
 ---
 
 ⭐ **Fun Fact:** `"I turn coffee ☕ into clean, scalable code!"`  
