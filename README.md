@@ -1,6 +1,6 @@
 <!-- Your GitHub Profile Header -->
-<h1 align="center">Hey there! 👋 I'm Mohammed</h1>
-<h3 align="center">A Passionate MERN Stack Developer | Exploring TypeScript & DevOps 🌟</h3>
+<h1 align="center">Hey there! 👋 I'm Tausif Ahmed </h1>
+<h3 align="center">A Passionate Software Developer | MERN Stack | DevOps Enthusiast 🚀</h3>
 
 <!-- Cool Banner (Optional) -->
 <p align="center">
@@ -12,7 +12,7 @@
 ### 🔥 **About Me**
 - 🏗️ Building scalable **MERN Stack** applications  
 - 💙 Exploring **TypeScript** for robust code quality  
-- ☁️ Passionate about **DevOps & Cloud Deployment**  
+- ☁️ Passionate about **Software Development & Cloud Deployment**  
 - 🎯 Constantly learning and improving!  
 
 ---
