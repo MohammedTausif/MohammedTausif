@@ -20,13 +20,13 @@
 ### 🛠️ **Tech Stack & Tools**
   
 #### 🌐 **Frontend**
-- ⚛️ React.js, Next.js, TypeScript  
+- ⚛️ React.js, Next.js, JavaScript, TypeScript  
 - 🎨 TailwindCSS, Shadcn UI, Material UI  
 - 🌎 Progressive Web Apps (PWAs)  
 
 #### 💾 **Backend**
 - 🚀 Node.js, Express.js  
-- 📜 TypeScript, RESTful APIs, GraphQL 
+- 📜 JavaScript, TypeScript, RESTful APIs, GraphQL 
 - 🔒 Authentication: JWT, OAuth, NextAuth 
 
 #### 🛢️ **Database & Storage**
