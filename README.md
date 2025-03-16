@@ -57,7 +57,9 @@
 
 ### 🎯 **Let's Connect!**
 📩 **Email:** iamtauseefofficial@gmail.com 
+
 💼 **LinkedIn:** [linkedin.com/in/Tausif_Ahmed](https://www.linkedin.com/in/tausif-ahmed-01a416253/)  
+
 🐦 **Twitter/X:** [@Tauseef](https://x.com/mohd_Tauseefx) 
 <!--
 🌍 **Portfolio:** [yourwebsite.com](https://github.com/MohammedTausif/)  
